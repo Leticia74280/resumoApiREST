@@ -10,12 +10,8 @@ HEAD - método que solicita uma resposta igual ao GET, mas não tem corpo da res
 POST - método usado para fazer mudanças no recurso.
 PUT - método substitui todos os dados atuais pelos dados da nova requisição.
 DELETE - método remove o recurso escolhido.
-
-CONNECT
-O método que estabelece um túnel para o servidor identificado pelo recurso de destino.
-
-OPTIONS
-O método OPTIONS é usado para descrever as opções de comunicação com o recurso de destino.
+CONNECT - método que conecta ao servidor destinado.
+OPTIONS - método diz as opções de comunicação com o recurso de destino.
 
 TRACE
 O método TRACE executa um teste de chamada loop-back junto com o caminho para o recurso de destino.

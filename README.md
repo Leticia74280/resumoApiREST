@@ -25,5 +25,8 @@ PATCH - método usado para fazer mudanças parciais, não totais.
 
 ## HTTP Status Code
 
+
+
 —
-Autoe do repositório: Ana Letícia Farias de Souza - 01600640
+
+Autor do repositório: Ana Letícia Farias de Souza - 01600640

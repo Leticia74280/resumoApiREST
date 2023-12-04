@@ -6,18 +6,22 @@ REST é mais flexível e leve enquanto RESTFul é mais rigoroso e completo, segu
 
 ## HTTP verbs- 
 GET - método GET para fazer solicitações com resposta em dados.
+
 HEAD - método que solicita uma resposta igual ao GET, mas não tem corpo da resposta.
+
 POST - método usado para fazer mudanças no recurso.
+
 PUT - método substitui todos os dados atuais pelos dados da nova requisição.
+
 DELETE - método remove o recurso escolhido.
+
 CONNECT - método que conecta ao servidor destinado.
+
 OPTIONS - método diz as opções de comunicação com o recurso de destino.
 
-TRACE
-O método TRACE executa um teste de chamada loop-back junto com o caminho para o recurso de destino.
+TRACE - método TRACE executa um teste de comunicação do seu próprio servidor.
 
-PATCH
-O método PATCH é utilizado para aplicar modificações parciais em um recurso.
+PATCH - método usado para fazer mudanças parciais, não totais.
 
 ## HTTP Status Code
 
